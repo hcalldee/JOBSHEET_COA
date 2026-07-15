@@ -36,6 +36,141 @@
           "file": "JS3-B.pdf"
         }
       ]
+    },
+    {
+      "show": false,
+      "title": "JS-04 Dokumen Dasar",
+      "description": "Membuat dokumen sederhana menggunakan Microsoft Word.",
+      "files": [
+        {
+          "label": "Versi A",
+          "file": "JS4-A.pdf"
+        },
+        {
+          "label": "Versi B",
+          "file": "JS4-B.pdf"
+        }
+      ]
+    },
+    {
+      "show": false,
+      "title": "JS-05 Format Dokumen",
+      "description": "Format font, paragraf, bullets, numbering, dan tabulasi.",
+      "files": [
+        {
+          "label": "Versi A",
+          "file": "JS5-A.pdf"
+        },
+        {
+          "label": "Versi B",
+          "file": "JS5-B.pdf"
+        }
+      ]
+    },
+    {
+      "show": false,
+      "title": "JS-06 Tabel & Objek",
+      "description": "Menyisipkan tabel, gambar, Shapes, dan WordArt.",
+      "files": [
+        {
+          "label": "Versi A",
+          "file": "JS6-A.pdf"
+        },
+        {
+          "label": "Versi B",
+          "file": "JS6-B.pdf"
+        }
+      ]
+    },
+    {
+      "show": false,
+      "title": "JS-07 Layout Dokumen",
+      "description": "Mengatur margin, orientasi, ukuran kertas, header, footer, dan page number.",
+      "files": [
+        {
+          "label": "Versi A",
+          "file": "JS7-A.pdf"
+        },
+        {
+          "label": "Versi B",
+          "file": "JS7-B.pdf"
+        }
+      ]
+    },
+    {
+      "show": false,
+      "title": "JS-08 Mail Merge",
+      "description": "Membuat surat massal menggunakan Mail Merge.",
+      "files": [
+        {
+          "label": "Versi A",
+          "file": "JS8-A.pdf"
+        },
+        {
+          "label": "Versi B",
+          "file": "JS8-B.pdf"
+        }
+      ]
+    },
+    {
+      "show": false,
+      "title": "JS-09 Dokumen Administrasi",
+      "description": "Membuat surat dinas, laporan, dan formulir.",
+      "files": [
+        {
+          "label": "Versi A",
+          "file": "JS9-A.pdf"
+        },
+        {
+          "label": "Versi B",
+          "file": "JS9-B.pdf"
+        }
+      ]
+    },
+    {
+      "show": false,
+      "title": "JS-10 Drill Microsoft Word",
+      "description": "Latihan intensif penyusunan dokumen Microsoft Word.",
+      "files": [
+        {
+          "label": "Versi A",
+          "file": "JS10-A.pdf"
+        },
+        {
+          "label": "Versi B",
+          "file": "JS10-B.pdf"
+        }
+      ]
+    },
+    {
+      "show": false,
+      "title": "JS-11 Simulasi Microsoft Word",
+      "description": "Simulasi dan penguatan materi sebelum asesmen kompetensi.",
+      "files": [
+        {
+          "label": "Versi A",
+          "file": "JS11-A.pdf"
+        },
+        {
+          "label": "Versi B",
+          "file": "JS11-B.pdf"
+        }
+      ]
+    },
+    {
+      "show": false,
+      "title": "JS-12 Evaluasi Microsoft Word",
+      "description": "Evaluasi akhir kompetensi Microsoft Word.",
+      "files": [
+        {
+          "label": "Versi A",
+          "file": "JS12-A.pdf"
+        },
+        {
+          "label": "Versi B",
+          "file": "JS12-B.pdf"
+        }
+      ]
     }
   ]
 }
