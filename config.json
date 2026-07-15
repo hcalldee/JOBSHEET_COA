@@ -12,7 +12,7 @@
       ]
     },
     {
-      "show": false,
+      "show": true,
       "title": "JS-02 Manajemen File",
       "description": "Pengelolaan file lanjutan.",
       "files": [
