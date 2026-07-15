@@ -1,0 +1,41 @@
+{
+  "jobsheets": [
+    {
+      "show": true,
+      "title": "JS-01 Pengoperasian Komputer & Manajemen File",
+      "description": "Mengoperasikan komputer dan mengelola file/folder.",
+      "files": [
+        {
+          "label": "Buka Jobsheet",
+          "file": "JS1.pdf"
+        }
+      ]
+    },
+    {
+      "show": false,
+      "title": "JS-02 Manajemen File",
+      "description": "Pengelolaan file lanjutan.",
+      "files": [
+        {
+          "label": "Buka Jobsheet",
+          "file": "JS2.pdf"
+        }
+      ]
+    },
+    {
+      "show": true,
+      "title": "JS-03 Studi Kasus Sistem Operasi",
+      "description": "Latihan studi kasus.",
+      "files": [
+        {
+          "label": "Versi A",
+          "file": "JS3-A.pdf"
+        },
+        {
+          "label": "Versi B",
+          "file": "JS3-B.pdf"
+        }
+      ]
+    }
+  ]
+}
